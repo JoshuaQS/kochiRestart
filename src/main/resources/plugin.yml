@@ -1,0 +1,8 @@
+name: KochiRestart
+main: us.empiremc.KochiRestart
+version: 1.0
+api-version: 1.19
+commands:
+  kochiRestart:
+    description: Comando para configurar el reinicio del End
+    usage: /kochiRestart <on/off/test/time>
